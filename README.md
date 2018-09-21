@@ -6,6 +6,8 @@ $ yarn add -D @alienfast/i18next-loader
 
 # webpack.config.js
 add the following to the webpack.config.js file
+
+
     {
       test: /locales/,
       loader: '@alienfast/i18next-loader',
@@ -16,7 +18,7 @@ add the following to the webpack.config.js file
 # i18n.js
 Create i18n.js file to configure storage of language files and initialise i18next
 
-# string.json
+# strings.json
 Language files should be stored as json inside the public folder in a folder called locales
 
 # index.json
