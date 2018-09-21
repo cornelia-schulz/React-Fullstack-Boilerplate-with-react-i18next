@@ -1,0 +1,8 @@
+{
+    "appName": "Alle meine Katzen",
+    "cats": "Katzen",
+    "languages": {
+        "en": "Englisch",
+        "de": "Deutsch"
+      }
+}
